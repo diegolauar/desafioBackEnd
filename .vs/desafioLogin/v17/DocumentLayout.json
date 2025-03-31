@@ -3,8 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\Diego\\source\\repos\\desafioLogin\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{39AB3BA9-5C36-4831-B7D3-FA65A4D4BCD0}|desafioLogin\\desafioLogin.csproj|c:\\users\\diego\\source\\repos\\desafiologin\\desafiologin\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39AB3BA9-5C36-4831-B7D3-FA65A4D4BCD0}|desafioLogin\\desafioLogin.csproj|solutionrelative:desafiologin\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39AB3BA9-5C36-4831-B7D3-FA65A4D4BCD0}|desafioLogin\\desafioLogin.csproj|c:\\users\\diego\\source\\repos\\desafiologin\\desafiologin\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39AB3BA9-5C36-4831-B7D3-FA65A4D4BCD0}|desafioLogin\\desafioLogin.csproj|solutionrelative:desafiologin\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39AB3BA9-5C36-4831-B7D3-FA65A4D4BCD0}|desafioLogin\\desafioLogin.csproj|c:\\users\\diego\\source\\repos\\desafiologin\\desafiologin\\controllers\\alunoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39AB3BA9-5C36-4831-B7D3-FA65A4D4BCD0}|desafioLogin\\desafioLogin.csproj|solutionrelative:desafiologin\\controllers\\alunoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{39AB3BA9-5C36-4831-B7D3-FA65A4D4BCD0}|desafioLogin\\desafioLogin.csproj|c:\\users\\diego\\source\\repos\\desafiologin\\desafiologin\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{39AB3BA9-5C36-4831-B7D3-FA65A4D4BCD0}|desafioLogin\\desafioLogin.csproj|solutionrelative:desafiologin\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39AB3BA9-5C36-4831-B7D3-FA65A4D4BCD0}|desafioLogin\\desafioLogin.csproj|c:\\users\\diego\\source\\repos\\desafiologin\\desafiologin\\handlers\\passwordhashhandller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39AB3BA9-5C36-4831-B7D3-FA65A4D4BCD0}|desafioLogin\\desafioLogin.csproj|solutionrelative:desafiologin\\handlers\\passwordhashhandller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39AB3BA9-5C36-4831-B7D3-FA65A4D4BCD0}|desafioLogin\\desafioLogin.csproj|c:\\users\\diego\\source\\repos\\desafiologin\\desafiologin\\services\\alunosservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39AB3BA9-5C36-4831-B7D3-FA65A4D4BCD0}|desafioLogin\\desafioLogin.csproj|solutionrelative:desafiologin\\services\\alunosservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{39AB3BA9-5C36-4831-B7D3-FA65A4D4BCD0}|desafioLogin\\desafioLogin.csproj|c:\\users\\diego\\source\\repos\\desafiologin\\desafiologin\\viewmodels\\registermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -15,32 +35,16 @@
       "RelativeMoniker": "D:0:0:{39AB3BA9-5C36-4831-B7D3-FA65A4D4BCD0}|desafioLogin\\desafioLogin.csproj|solutionrelative:desafiologin\\model\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Diego\\source\\repos\\desafioLogin\\desafioLogin\\Migrations\\20250331153607_UserAccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:desafioLogin\\Migrations\\20250331153607_UserAccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{39AB3BA9-5C36-4831-B7D3-FA65A4D4BCD0}|desafioLogin\\desafioLogin.csproj|c:\\users\\diego\\source\\repos\\desafiologin\\desafiologin\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{39AB3BA9-5C36-4831-B7D3-FA65A4D4BCD0}|desafioLogin\\desafioLogin.csproj|solutionrelative:desafiologin\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{39AB3BA9-5C36-4831-B7D3-FA65A4D4BCD0}|desafioLogin\\desafioLogin.csproj|c:\\users\\diego\\source\\repos\\desafiologin\\desafiologin\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{39AB3BA9-5C36-4831-B7D3-FA65A4D4BCD0}|desafioLogin\\desafioLogin.csproj|solutionrelative:desafiologin\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{39AB3BA9-5C36-4831-B7D3-FA65A4D4BCD0}|desafioLogin\\desafioLogin.csproj|c:\\users\\diego\\source\\repos\\desafiologin\\desafiologin\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{39AB3BA9-5C36-4831-B7D3-FA65A4D4BCD0}|desafioLogin\\desafioLogin.csproj|solutionrelative:desafiologin\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{39AB3BA9-5C36-4831-B7D3-FA65A4D4BCD0}|desafioLogin\\desafioLogin.csproj|c:\\users\\diego\\source\\repos\\desafiologin\\desafiologin\\services\\alunosservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{39AB3BA9-5C36-4831-B7D3-FA65A4D4BCD0}|desafioLogin\\desafioLogin.csproj|solutionrelative:desafiologin\\services\\alunosservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{39AB3BA9-5C36-4831-B7D3-FA65A4D4BCD0}|desafioLogin\\desafioLogin.csproj|c:\\users\\diego\\source\\repos\\desafiologin\\desafiologin\\services\\ialunoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39AB3BA9-5C36-4831-B7D3-FA65A4D4BCD0}|desafioLogin\\desafioLogin.csproj|solutionrelative:desafiologin\\services\\ialunoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{39AB3BA9-5C36-4831-B7D3-FA65A4D4BCD0}|desafioLogin\\desafioLogin.csproj|c:\\users\\diego\\source\\repos\\desafiologin\\desafiologin\\services\\authenticateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{39AB3BA9-5C36-4831-B7D3-FA65A4D4BCD0}|desafioLogin\\desafioLogin.csproj|solutionrelative:desafiologin\\services\\authenticateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{39AB3BA9-5C36-4831-B7D3-FA65A4D4BCD0}|desafioLogin\\desafioLogin.csproj|c:\\users\\diego\\source\\repos\\desafiologin\\desafiologin\\services\\ialunoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{39AB3BA9-5C36-4831-B7D3-FA65A4D4BCD0}|desafioLogin\\desafioLogin.csproj|solutionrelative:desafiologin\\services\\ialunoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{39AB3BA9-5C36-4831-B7D3-FA65A4D4BCD0}|desafioLogin\\desafioLogin.csproj|c:\\users\\diego\\source\\repos\\desafiologin\\desafiologin\\viewmodels\\usertoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -53,6 +57,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{39AB3BA9-5C36-4831-B7D3-FA65A4D4BCD0}|desafioLogin\\desafioLogin.csproj|c:\\users\\diego\\source\\repos\\desafiologin\\desafiologin\\viewmodels\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{39AB3BA9-5C36-4831-B7D3-FA65A4D4BCD0}|desafioLogin\\desafioLogin.csproj|solutionrelative:desafiologin\\viewmodels\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39AB3BA9-5C36-4831-B7D3-FA65A4D4BCD0}|desafioLogin\\desafioLogin.csproj|c:\\users\\diego\\source\\repos\\desafiologin\\desafiologin\\migrations\\20250331153607_useraccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39AB3BA9-5C36-4831-B7D3-FA65A4D4BCD0}|desafioLogin\\desafioLogin.csproj|solutionrelative:desafiologin\\migrations\\20250331153607_useraccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -62,19 +70,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "20250331153607_UserAccount.cs",
-              "DocumentMoniker": "C:\\Users\\Diego\\source\\repos\\desafioLogin\\desafioLogin\\Migrations\\20250331153607_UserAccount.cs",
-              "RelativeDocumentMoniker": "desafioLogin\\Migrations\\20250331153607_UserAccount.cs",
-              "ToolTip": "C:\\Users\\Diego\\source\\repos\\desafioLogin\\desafioLogin\\Migrations\\20250331153607_UserAccount.cs",
-              "RelativeToolTip": "desafioLogin\\Migrations\\20250331153607_UserAccount.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "AlunosController.cs",
+              "DocumentMoniker": "C:\\Users\\Diego\\source\\repos\\desafioLogin\\desafioLogin\\Controllers\\AlunosController.cs",
+              "RelativeDocumentMoniker": "desafioLogin\\Controllers\\AlunosController.cs",
+              "ToolTip": "C:\\Users\\Diego\\source\\repos\\desafioLogin\\desafioLogin\\Controllers\\AlunosController.cs",
+              "RelativeToolTip": "desafioLogin\\Controllers\\AlunosController.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAIwEkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-31T15:36:07.63Z",
+              "WhenOpened": "2025-03-31T21:56:01.552Z",
               "EditorCaption": ""
             },
             {
@@ -85,13 +93,13 @@
               "RelativeDocumentMoniker": "desafioLogin\\Services\\IAlunoService.cs",
               "ToolTip": "C:\\Users\\Diego\\source\\repos\\desafioLogin\\desafioLogin\\Services\\IAlunoService.cs",
               "RelativeToolTip": "desafioLogin\\Services\\IAlunoService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAASAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-30T19:54:45.627Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "IAuthenticate.cs",
               "DocumentMoniker": "C:\\Users\\Diego\\source\\repos\\desafioLogin\\desafioLogin\\Services\\IAuthenticate.cs",
               "RelativeDocumentMoniker": "desafioLogin\\Services\\IAuthenticate.cs",
@@ -103,33 +111,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 5,
               "Title": "AlunosService.cs",
               "DocumentMoniker": "C:\\Users\\Diego\\source\\repos\\desafioLogin\\desafioLogin\\Services\\AlunosService.cs",
               "RelativeDocumentMoniker": "desafioLogin\\Services\\AlunosService.cs",
               "ToolTip": "C:\\Users\\Diego\\source\\repos\\desafioLogin\\desafioLogin\\Services\\AlunosService.cs",
               "RelativeToolTip": "desafioLogin\\Services\\AlunosService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAALAAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowCMAAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-30T19:44:36.16Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Diego\\source\\repos\\desafioLogin\\desafioLogin\\Program.cs",
               "RelativeDocumentMoniker": "desafioLogin\\Program.cs",
               "ToolTip": "C:\\Users\\Diego\\source\\repos\\desafioLogin\\desafioLogin\\Program.cs",
               "RelativeToolTip": "desafioLogin\\Program.cs",
-              "ViewState": "AgIAACQAAAAAAAAAAAAswFgAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABgAAAAAAAAAAAAswCgAAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-29T17:54:20.971Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Diego\\source\\repos\\desafioLogin\\desafioLogin\\appsettings.json",
               "RelativeDocumentMoniker": "desafioLogin\\appsettings.json",
@@ -137,51 +145,86 @@
               "RelativeToolTip": "desafioLogin\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-30T17:25:11.323Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-30T17:25:11.323Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "AccountController.cs",
               "DocumentMoniker": "C:\\Users\\Diego\\source\\repos\\desafioLogin\\desafioLogin\\Controllers\\AccountController.cs",
               "RelativeDocumentMoniker": "desafioLogin\\Controllers\\AccountController.cs",
               "ToolTip": "C:\\Users\\Diego\\source\\repos\\desafioLogin\\desafioLogin\\Controllers\\AccountController.cs",
               "RelativeToolTip": "desafioLogin\\Controllers\\AccountController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAACsAAAAAAAAAAAAUwFoAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-30T17:09:55.383Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "RegisterModel.cs",
               "DocumentMoniker": "C:\\Users\\Diego\\source\\repos\\desafioLogin\\desafioLogin\\ViewModels\\RegisterModel.cs",
               "RelativeDocumentMoniker": "desafioLogin\\ViewModels\\RegisterModel.cs",
               "ToolTip": "C:\\Users\\Diego\\source\\repos\\desafioLogin\\desafioLogin\\ViewModels\\RegisterModel.cs",
               "RelativeToolTip": "desafioLogin\\ViewModels\\RegisterModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-30T17:13:03.969Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-30T17:13:03.969Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "Aluno.cs",
               "DocumentMoniker": "C:\\Users\\Diego\\source\\repos\\desafioLogin\\desafioLogin\\Model\\Aluno.cs",
               "RelativeDocumentMoniker": "desafioLogin\\Model\\Aluno.cs",
               "ToolTip": "C:\\Users\\Diego\\source\\repos\\desafioLogin\\desafioLogin\\Model\\Aluno.cs",
               "RelativeToolTip": "desafioLogin\\Model\\Aluno.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAwAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-30T19:44:28.173Z",
+              "WhenOpened": "2025-03-30T19:44:28.173Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Diego\\source\\repos\\desafioLogin\\desafioLogin\\Context\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "desafioLogin\\Context\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Diego\\source\\repos\\desafioLogin\\desafioLogin\\Context\\AppDbContext.cs",
+              "RelativeToolTip": "desafioLogin\\Context\\AppDbContext.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAowB8AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T20:09:39.891Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 4,
+              "Title": "PasswordHashHandller.cs",
+              "DocumentMoniker": "C:\\Users\\Diego\\source\\repos\\desafioLogin\\desafioLogin\\Handlers\\PasswordHashHandller.cs",
+              "RelativeDocumentMoniker": "desafioLogin\\Handlers\\PasswordHashHandller.cs",
+              "ToolTip": "C:\\Users\\Diego\\source\\repos\\desafioLogin\\desafioLogin\\Handlers\\PasswordHashHandller.cs",
+              "RelativeToolTip": "desafioLogin\\Handlers\\PasswordHashHandller.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T22:29:22.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "20250331153607_UserAccount.cs",
+              "DocumentMoniker": "C:\\Users\\Diego\\source\\repos\\desafioLogin\\desafioLogin\\Migrations\\20250331153607_UserAccount.cs",
+              "RelativeDocumentMoniker": "desafioLogin\\Migrations\\20250331153607_UserAccount.cs",
+              "ToolTip": "C:\\Users\\Diego\\source\\repos\\desafioLogin\\desafioLogin\\Migrations\\20250331153607_UserAccount.cs",
+              "RelativeToolTip": "desafioLogin\\Migrations\\20250331153607_UserAccount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T15:36:07.63Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "AuthenticateService.cs",
               "DocumentMoniker": "C:\\Users\\Diego\\source\\repos\\desafioLogin\\desafioLogin\\Services\\AuthenticateService.cs",
               "RelativeDocumentMoniker": "desafioLogin\\Services\\AuthenticateService.cs",
@@ -189,25 +232,11 @@
               "RelativeToolTip": "desafioLogin\\Services\\AuthenticateService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-30T17:04:57.419Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-30T17:04:57.419Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\Diego\\source\\repos\\desafioLogin\\desafioLogin\\Context\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "desafioLogin\\Context\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\Diego\\source\\repos\\desafioLogin\\desafioLogin\\Context\\AppDbContext.cs",
-              "RelativeToolTip": "desafioLogin\\Context\\AppDbContext.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAowCcAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-30T20:09:39.891Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "UserToken.cs",
               "DocumentMoniker": "C:\\Users\\Diego\\source\\repos\\desafioLogin\\desafioLogin\\ViewModels\\UserToken.cs",
               "RelativeDocumentMoniker": "desafioLogin\\ViewModels\\UserToken.cs",
@@ -219,7 +248,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "LoginModel.cs",
               "DocumentMoniker": "C:\\Users\\Diego\\source\\repos\\desafioLogin\\desafioLogin\\ViewModels\\LoginModel.cs",
               "RelativeDocumentMoniker": "desafioLogin\\ViewModels\\LoginModel.cs",

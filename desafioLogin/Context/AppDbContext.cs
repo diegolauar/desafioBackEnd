@@ -29,7 +29,7 @@ namespace desafioLogin.Context
                     Id = 1,
                     Nome = "Maria",
                     Email = "maria@gmail.com",
-                    Password = "teste",
+                    Password = "gdfggaasda1233asdas",
                     Active = true,
                 },
                 new Aluno
@@ -37,7 +37,7 @@ namespace desafioLogin.Context
                     Id = 2,
                     Nome = "Joao",
                     Email = "joao@gmail.com",
-                    Password = "teste2",
+                    Password = "sdfdfghrt234fgdfg",
                     Active = true,
                 });
         }

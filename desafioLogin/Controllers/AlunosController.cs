@@ -1,8 +1,10 @@
-﻿using desafioLogin.Models;
+﻿using desafioLogin.Migrations;
+using desafioLogin.Models;
 using desafioLogin.Services;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 
 namespace desafioLogin.Controllers
 {
@@ -72,9 +74,11 @@ namespace desafioLogin.Controllers
         [HttpPost]
 
         public async Task<ActionResult> Create(Aluno aluno)
-        {
+        {   
+
             try
             {
+                aluno.Password = PasswordHashHandler.HashPassword(aluno.Password);
                 await _alunoService.CreateAluno(aluno);
                 return CreatedAtRoute(nameof(GetAluno), new { id = aluno.Id }, aluno);
             }
@@ -106,6 +110,7 @@ namespace desafioLogin.Controllers
                 return BadRequest("Request Invalido");
             }
         }
+
 
         [HttpDelete("{id}")]
 

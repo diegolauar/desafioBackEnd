@@ -10,6 +10,5 @@ namespace desafioLogin.Services
         Task CreateAluno(Aluno aluno);
         Task UpdateAluno(Aluno aluno);
         Task DeleteAluno(Aluno aluno);
-
     }
 }

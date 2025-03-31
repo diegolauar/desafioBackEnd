@@ -1,6 +1,7 @@
 ﻿using desafioLogin.Context;
 using desafioLogin.Models;
 using Microsoft.EntityFrameworkCore;
+using BCrypt.Net;
 
 namespace desafioLogin.Services
 {
@@ -15,58 +16,52 @@ namespace desafioLogin.Services
 
         public async Task<IEnumerable<Aluno>> GetAlunos()
         {
-            try
-            {
-                return await _context.Alunos.ToListAsync();
-
-            }
-            catch
-            {
-
-                throw;
-            }
+            return await _context.Alunos.ToListAsync();
         }
 
         public async Task<IEnumerable<Aluno>> GetAlunosByNome(string nome)
         {
-           IEnumerable<Aluno> alunos;
-            if (!string.IsNullOrEmpty(nome)) { 
-                alunos = await _context.Alunos.Where(n=> n.Nome.Contains(nome)).ToListAsync();
-            }
-            else
-            {
-                alunos = await GetAlunos();
-            }
-            return alunos;
+            return await _context.Alunos
+                .Where(n => n.Nome.Contains(nome))
+                .ToListAsync();
         }
+
         public async Task<Aluno> GetAluno(int id)
         {
-            var aluno = await _context.Alunos.FindAsync(id);
-            return aluno;
+            return await _context.Alunos.FindAsync(id);
         }
 
         public async Task CreateAluno(Aluno aluno)
         {
+            // Criptografando a senha antes de salvar no banco
+            aluno.Password = BCrypt.Net.BCrypt.HashPassword(aluno.Password);
+
             _context.Alunos.Add(aluno);
             await _context.SaveChangesAsync();
         }
 
         public async Task UpdateAluno(Aluno aluno)
         {
-            _context.Entry(aluno).State = EntityState.Modified;
+            var alunoExistente = await _context.Alunos.FindAsync(aluno.Id);
+            if (alunoExistente == null)
+                throw new KeyNotFoundException("Aluno não encontrado");
+
+            // Se a senha for alterada, gera um novo hash
+            if (!string.IsNullOrEmpty(aluno.Password))
+            {
+                alunoExistente.Password = BCrypt.Net.BCrypt.HashPassword(aluno.Password);
+            }
+
+            alunoExistente.Nome = aluno.Nome; // Atualiza outros dados
+
             await _context.SaveChangesAsync();
-
         }
-
 
         public async Task DeleteAluno(Aluno aluno)
         {
             _context.Alunos.Remove(aluno);
             await _context.SaveChangesAsync();
         }
-
-    
-
 
     }
 }
